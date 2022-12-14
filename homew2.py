@@ -35,6 +35,3 @@ for pos in positions:
 print(positions)
 print(list_gen)
 print(multi)
-
-
-
